@@ -3,27 +3,24 @@
 <h1 align="center">Hi 👋, I'm YOURNAME</h1>
 
 <p align="center">
-  I'm YOURNAME, a software engineer passionate about building user-friendly and functional software.
+  I'm ADFASH, a software engineer passionate about building user friendly and functional software.
   I enjoy taking on new challenges with enthusiasm and aim to create smooth, high-quality experiences
   that meet both user and business needs.
 </p>
 
 ---
 
-- 🧑‍💻 All of my projects are available at **[https://your-portfolio-link.example](https://your-portfolio-link.example)**
-- 📬 How to reach me **your.email@example.com**
+- 🧑‍💻 All of my projects are available at here
+- 📬 How to reach me **ADFASH77@gmail.com**
 - ⚡ Fun fact **Consistency creates lasting success.**
 
 ### Connect with me:
 <p>
   <!-- Example: Discord badge -->
-  <a href="https://discord.com/users/YOUR_DISCORD_ID" target="_blank">
+  <a href="https://discord.com/users/530019357762387968" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white" alt="Discord" />
   </a>
-  <!-- Add more shields if you like: LinkedIn, Twitter, etc. -->
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+
 </p>
 
 ### Languages and Tools:
